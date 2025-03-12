@@ -29,7 +29,7 @@ GROQ_API_KEY=your_groq_api_key
 ## Usage
 ### Run the Application
 ```bash
-python main.py
+python gradio_app.py
 ```
 ### Gradio Interface
 The app runs locally. Open the displayed **localhost URL** in your browser.
