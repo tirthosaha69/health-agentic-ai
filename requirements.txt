@@ -1,0 +1,11 @@
+gradio
+python-dotenv
+groq
+speechrecognition
+pydub
+gtts
+elevenlabs
+edge-tts
+playsound
+pillow
+openai  # (If used in the future)
